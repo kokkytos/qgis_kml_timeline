@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/plugins/export2kml" >
+        <file>icon.png</file>
+        <file>Keyhole_Markup_Language.png</file>
+        <file>kml.png</file>
+
+
+    </qresource>
+</RCC>

@@ -1,0 +1,1 @@
+A qgis plugin to export a shapefile to kml ready for animation in Google Earth Pro.
